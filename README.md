@@ -37,8 +37,6 @@ cd simple_app
 npm install
 ```
 
-# Android Emulator / Device
-
 - Android Emulator / Device
 
 ```bash
