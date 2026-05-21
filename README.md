@@ -1,11 +1,58 @@
-# Sample Snack app
+# Destination App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+A simple React Native destination explorer app built using Expo.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Features
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- User Registration
+- Login Authentication
+- Password Validation
+- Search Destinations
+- Favorite Destinations
+- Destination Details Screen
+- AsyncStorage Integration
+- React Navigation
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+---
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+# Getting Started
+
+- To run the application on your mobile device, install the Expo Go application.
+
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/Shiva710211/simple_app.git
+```
+
+# Move into the project folder:
+
+```bash
+cd simple_app
+```
+
+# Install Dependencies
+
+```bash
+npm install
+```
+
+# Android Emulator / Device
+
+- Android Emulator / Device
+
+```bash
+npm run android
+```
+
+- iOS Simulator
+
+```bash
+npm run ios
+```
+
+- Web
+
+```bash
+npm run web
+```
